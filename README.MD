@@ -31,7 +31,7 @@ npm install
 Create a .env file in the root directory.
 Add your MongoDB connection string to the .env file
 MONGODB_URI=your-mongodb-connection-string
-#Start the server:
+### Start the server:
 npm start
 
 
